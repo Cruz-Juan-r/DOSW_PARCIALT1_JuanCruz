@@ -4,8 +4,8 @@ Parcial de primer corte de DOSW
  ### Requirimientos Funcionales 
 
 1. Se debe poder gestionar laboratorios,salones de clase, oficinas, salas de estudio y equipos
-2. Silabinfo solo acepta la sigla de la materia y no guarda la informacion de estas.
-3. No guardara informacion de los profesores ni estudiantes para eso utlizara enlace.
+2. Los salones de clase solo se pueden reservar por maximo 180 minutos, las oficinas por maximo 240 minutos, las salas de estudio por 60 min, y los equipos por 60 minutos.
+3. Los salones de clase solo pueden ser reservados por monitores o profesores
 
 
 
